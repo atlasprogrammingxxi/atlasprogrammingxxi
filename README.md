@@ -1,131 +1,93 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Hello There! | Hermel Rojas</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f9f9f9;
-      margin: 0;
-      padding: 0;
-      color: #222;
-    }
-    main {
-      max-width: 700px;
-      margin: 40px auto;
-      background: #fff;
-      padding: 36px 24px 24px 24px;
-      border-radius: 10px;
-      box-shadow: 0 4px 24px rgba(0,0,0,0.09);
-    }
-    h1 {
-      font-size: 2.2em;
-      margin-bottom: 18px;
-      color: #0072c6;
-    }
-    .contact-section {
-      margin: 36px 0 28px 0;
-      text-align: center;
-    }
-    .contact-title {
-      font-size: 1.5em;
-      margin-bottom: 18px;
-      font-weight: bold;
-      color: #333;
-    }
-    .contact-buttons {
-      display: flex;
-      justify-content: center;
-      gap: 16px;
-      margin-bottom: 10px;
-    }
-    .contact-button {
-      padding: 12px 28px;
-      border-radius: 6px;
-      font-size: 1em;
-      font-weight: bold;
-      text-decoration: none;
-      color: #fff;
-      transition: background 0.2s;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.07);
-      display: inline-block;
-    }
-    .whatsapp-btn {
-      background: #25D366;
-    }
-    .whatsapp-btn:hover {
-      background: #1ebe5d;
-    }
-    .email-btn {
-      background: #0072c6;
-    }
-    .email-btn:hover {
-      background: #005fa3;
-    }
-    h4 {
-      margin-top: 36px;
-      color: #444;
-    }
-    ul {
-      margin: 0 0 24px 20px;
-      padding: 0;
-    }
-    li {
-      margin-bottom: 8px;
-      font-size: 1.05em;
-    }
-    blockquote {
-      margin: 30px 0 0 0;
-      padding: 16px 24px;
-      background: #f1f7fb;
-      border-left: 4px solid #0072c6;
-      color: #333;
-      font-style: italic;
-    }
-    @media (max-width: 600px) {
-      main {
-        padding: 16px 4vw;
-      }
-      .contact-buttons {
-        flex-direction: column;
-        gap: 12px;
-      }
-    }
-  </style>
-</head>
-<body>
-<main>
-  <h1>About me</h1>
-  <p>
-    Hello! I'm Hermel Francisco Rojas, a bilingual (Spanish/English C1) Full Stack Developer and Systems Engineering student based in Bogotá, Colombia. I have experience designing, developing, and deploying scalable web applications, with strong command of both frontend (CSS, Vue, React) and backend (Java, Spring Boot, JavaScript, NodeJS) technologies.
-    <br><br>
-    My background includes building intuitive and responsive user interfaces, implementing robust backend logic, and managing databases and APIs for efficient data handling. I have successfully led and collaborated on projects from conception to deployment, always focusing on delivering innovative solutions and enhancing user experience. Here is some info about me:
-  </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
-  <section class="contact-section">
-    <div class="contact-title">How to contact me</div>
-    <div class="contact-buttons">
-      <a href="https://wa.me/1234567890" target="_blank" class="contact-button whatsapp-btn">
-        WhatsApp
-      </a>
-      <a href="mailto:francisco_rojasxxi@hotmail.es" class="contact-button email-btn">
-        Email
-      </a>
-    </div>
-  </section>
+<div align="center">
 
-  <h4>📫 How to reach me</h4>
-  <ul>
-    <li>🙃 Pronouns: He/Him/They/Them</li>
-    <li>👀 I’m interested in <a href="https://www.oracle.com/in/java/" target="_blank">Java</a>. I know JavaScript, HTML and CSS.</li>
-    <li>💞️ I’m looking to collaborate on anything, you can contact me for collaboration!</li>
-  </ul>
+# Hermel Francisco Rojas
 
-  <blockquote>
-    You can know if I am active on Github, by looking at my GitHub status. It updates when I become online or when I am sleeping.
-  </blockquote>
-</main>
-</body>
-</html>
+**Estudiante de Ingeniería de Sistemas y Desarrollador Full Stack**  
+Bogotá D.C., Colombia
+
+[WhatsApp](https://wa.me/573507554178) | [Correo](mailto:francisco_rojasxxi@hotmail.es) | [LinkedIn](https://www.linkedin.com/in/tu-linkedin) | [GitHub](https://github.com/tu-github)
+
+</div>
+
+---
+
+## 📝 Perfil Profesional
+
+Estudiante de Ingeniería de Sistemas y desarrollador Full Stack bilingüe en inglés (C1) con experiencia en el diseño, desarrollo e implementación de aplicaciones web escalables y eficientes.  
+Dominio de tecnologías tanto del lado del cliente (**frontend:** CSS, Vue, React) como del servidor (**backend:** Java, Spring Boot, JavaScript, NodeJS), con sólidos conocimientos en bases de datos, APIs RESTful y metodologías ágiles.  
+Capacidad para liderar proyectos de desarrollo desde la concepción hasta el despliegue, aportando soluciones innovadoras y enfocadas en la experiencia del usuario.
+
+---
+
+## 🎓 Educación
+
+- **Corporación Unificada Nacional CUN**  
+  _Ingeniería de Sistemas_  
+  Agosto 2022 – Septiembre 2025
+
+- **SENA**  
+  _Tecnólogo en Análisis y Desarrollo de Sistemas de Información_  
+  Agosto 2021 – Abril 2024
+
+- **Generation Colombia**  
+  _Desarrollo Jr. Full-Stack/Java_  
+  Febrero 2025 – Junio 2025
+
+---
+
+## 💼 Experiencia Laboral
+
+### Proyecto de E-commerce - Vetlab  
+_Febrero 2025 – Junio 2025_
+
+- Diseño y desarrollo de interfaces de usuario intuitivas y responsivas para la tienda en línea (JavaScript – CSS).
+- Implementación y gestión de bases de datos para el manejo eficiente de productos, usuarios y pedidos (SQL).
+- Integración de página de contáctenos, sobre nosotros, carrito de compras y tienda, junto con sistemas de autenticación de usuarios (JavaScript).
+- Despliegue, mantenimiento y optimización de la aplicación.
+
+### Compliance Data Officer  
+**TMF Group, Bogotá, Colombia**  
+_Mayo 2023 – Mayo 2024_
+
+- Extracción de datos de diversas fuentes (bases de datos, APIs, hojas de cálculo, CRMs).
+- Automatización del proceso de generación de reportes mensuales de calidad de datos de cumplimiento, reduciendo el tiempo de entrega en un 50% y eliminando errores manuales.
+- Análisis de patrones en el onboarding de clientes y propuesta de estrategias de identificación, reduciendo la tasa de falsos positivos en un 15%.
+- Diseño de dashboards interactivos en Power BI que permitieron a gerencia identificar oportunidades de mejora en procesos de cumplimiento, logrando una disminución en respuesta de requerimientos del 25%.
+
+---
+
+## 🛠️ Habilidades y Certificaciones
+
+- **Scrum Foundation Professional Certification - SFPC™** (Scrum | Project Management)
+- **IBM Data Science Professional Certificate** (Modelos AI | Python | Scikit-Learn | Tensorflow)
+- **Google Project Management Professional Certificate** (Agile | Scrum | Project Management)
+- **Google Data Analytics / Advanced Data Analytics Professional Certificates** (BigQuery | Looker | GCP | Excel | Estadística)
+- **Microsoft Azure DP-900, AZ-900, AI-900 y SC-900** (Azure | SQL | AI | Python | PowerBI)
+- **IELTS Academic Test** (C1 Level)
+
+---
+
+## 💻 Tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,vue,react,nodejs,css,html,sql,python,azure,powerbi,git,github,linux,figma&perline=8" />
+</p>
+
+---
+
+## 🌎 Idiomas
+
+- Español (Nativo)
+- Inglés (C1 - IELTS Academic)
+
+---
+
+> “Siempre busco crear soluciones que sean útiles, accesibles y que generen un impacto positivo en las personas.”
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+
+**Actualizado:** 7 de mayo de 2025
