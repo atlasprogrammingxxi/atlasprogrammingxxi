@@ -1,55 +1,34 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
+  <title>Hello There! | Hermel Rojas/title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>[Tu Nombre] | Desarrollador/a Full Stack</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <main>
-    <header class="main-header">
-      <h1>Frontend & Full Stack</h1>
-      <p class="subtitle">Desarrollador/a Full Stack apasionado/a por crear soluciones web innovadoras y creativas. 👩‍💻</p>
-    </header>
+<main>
+  <h1>Hello There!</h1>
+  <p>I am Hermel Rojas. I am a full stack developer, here some info about me</p>
+  <ul>
+    <li>🙃 Pronouns: He/Him/They/Them</li>
+    <li>👀 I’m interested in <a href="https://www.oracle.com/in/java/" target="_blank">Java</a>. I know JavaScript, HTML and CSS.</li>
+    <li>💞️ I’m looking to collaborate on nothanything, You can contact me for collaboration!</li>
+  </ul>
 
-    <section class="about">
-      <h2>📚 Sobre mí</h2>
-      <p>
-        ¡Hola! Soy <b>[Tu Nombre]</b>, desarrollador/a web en formación apasionado/a por el frontend, backend y la experiencia de usuario. Actualmente trabajo en una plataforma web para un e-commerce de productos didácticos para niños con autismo, además de proyectos personales con <b>HTML, CSS, JavaScript, Java y Node.js</b>.
-      </p>
-    </section>
+  <h4>📫 How to reach me</h4>
+  <ul>
+    <li>Discord: <a href="https://discord.com/users/908563963392958464" target="_blank"><code>Nishant1500#9735</code></a></li>
+    <li>Email: <a href="francisco_rojasxxi@hotmail.es">Click To Mail!</a> or copy <strong><code>nishant.behera0607@gmail.com</code></strong></li>
+ 
+  </ul>
 
-    <section class="contact">
-      <h2>📬 Contacto</h2>
-      <div class="badges">
-        <a href="mailto:tucorreo@ejemplo.com" class="badge">Email</a>
-        <a href="https://discord.com/users/123456789012345678" class="badge" target="_blank">Discord</a>
-        <a href="https://github.com/tuusuario" class="badge" target="_blank">GitHub</a>
-        <!-- Agrega más badges si quieres -->
-      </div>
-    </section>
+  <blockquote>
+    You can know if I am active on Github, by looking at my GitHub status. It updates when I become online when I am sleeping.
+  </blockquote>
 
-    <section class="projects">
-      <h2>🌟 Proyectos Destacados 🌟</h2>
-      <div class="project">
-        <h3>Journey - Ecommerce 🐋</h3>
-        <p>
-          Tienda en línea de productos didácticos para niños con autismo. Estética amigable en tonos azules, secciones claras (home, productos, contacto, sobre nosotros, login). Combina accesibilidad, funcionalidad y propósito educativo/social.
-        </p>
-        <div class="collaborators">
-          <h4>🤝 Colaboradores</h4>
-          <ul>
-            <li><img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Carlos Torres" /> Carlos Torres</li>
-            <li><img src="https://randomuser.me/api/portraits/women/44.jpg" alt="MJ Gonzalez" /> MJ Gonzalez</li>
-            <li><img src="https://randomuser.me/api/portraits/men/45.jpg" alt="Gabriel Pinilla" /> Gabriel Pinilla</li>
-            <li><img src="https://randomuser.me/api/portraits/women/46.jpg" alt="Tatiana Casas" /> Tatiana Casas</li>
-          </ul>
-        </div>
-      </div>
+  <hr>
 
-      <div class="project">
-        <h3>Abecedario - Juego interactivo 🔠</h3>
-        <p>
-
-
+  <p align="center">
+    <a href="https://https://open.spotify.com/playlist/4h9IFile4ykWQKRGgGPRMw" target="_blank">
+      <img alt="Spotify" width="26px" heig
