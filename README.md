@@ -2,14 +2,16 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Hello There! | Hermel Rojas/title>
+  <title> Hello There! | Hermel Rojas <title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <main>
   <h1>Hello There!</h1>
-  <p>I am Hermel Rojas. I am a full stack developer, here some info about me</p>
+  <p>Hello! I'm Hermel Francisco Rojas, a bilingual (Spanish/English C1) Full Stack Developer and Systems Engineering student based in Bogotá, Colombia. I have experience designing, developing, and deploying scalable web applications, with strong command of both frontend (CSS, Vue, React) and backend (Java, Spring Boot, JavaScript, NodeJS) technologies.
+
+My background includes building intuitive and responsive user interfaces, implementing robust backend logic, and managing databases and APIs for efficient data handling. I have successfully led and collaborated on projects from conception to deployment, always focusing on delivering innovative solutions and enhancing user experience, here some info about me</p>
   <ul>
     <li>🙃 Pronouns: He/Him/They/Them</li>
     <li>👀 I’m interested in <a href="https://www.oracle.com/in/java/" target="_blank">Java</a>. I know JavaScript, HTML and CSS.</li>
