@@ -2,11 +2,13 @@
 
 <div align="center">
 
-# 👋 ¡Hola! Soy **Hermel Francisco Rojas**
-### 💻 Full Stack Developer | Ingeniería de Sistemas | Bogotá, Colombia
+<img src="https://avatars.githubusercontent.com/u/908563963392958464?v=4" width="120" style="border-radius:50%;margin-bottom:10px" alt="Francisco Rojas avatar"/>
+
+# 👋 ¡Hola! Soy **Francisco Rojas**
+### 💻 Full Stack Developer | Bogotá, Colombia
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573507554178)
-[![Correo](https://img.shields.io/badge/Email-0072c6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisco_rojasxxi@hotmail.es)
+[![Email](https://img.shields.io/badge/Email-0072c6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisco_rojasxxi@hotmail.es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-github)
 
@@ -16,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0072C6&center=true&vCenter=true&width=900&lines=Transformo+ideas+en+soluciones+digitales+accesibles+y+eficientes;Apasionado+por+la+innovaci%C3%B3n+y+el+impacto+social;Siempre+aprendiendo+y+colaborando" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=25D366&center=true&vCenter=true&width=900&lines=Desarrollo+soluciones+web+accesibles+y+escalables;Apasionado+por+la+innovaci%C3%B3n+y+el+impacto+social;Siempre+aprendiendo+y+colaborando" alt="Typing SVG" />
 
 </div>
 
@@ -24,62 +26,99 @@
 
 ## 📝 Sobre mí
 
-Soy estudiante de **Ingeniería de Sistemas** y **Desarrollador Full Stack** bilingüe (C1 inglés), con experiencia en el diseño, desarrollo e implementación de aplicaciones web escalables y eficientes.  
-Domino tecnologías frontend (**CSS, Vue, React**) y backend (**Java, Spring Boot, JavaScript, NodeJS**), así como bases de datos, APIs RESTful y metodologías ágiles.  
-Me apasiona liderar proyectos desde la concepción hasta el despliegue, siempre enfocado en la experiencia del usuario y la innovación.
+Desarrollador Full Stack con enfoque en accesibilidad, escalabilidad y experiencia de usuario.  
+Trabajo con **Java, Spring Boot, Node.js, React, Vue, JavaScript, SQL** y más.  
+Me motiva crear productos digitales que generen impacto real y positivo.  
+¿Buscas colaboración o tienes una idea? [¡Contáctame!](mailto:francisco_rojasxxi@hotmail.es)
 
 ---
 
-## 📚 Educación
+## 🛠️ Skills & Tools
 
-| 📖 Institución                              | 🎓 Título/Programa                                         | 📅 Periodo                |
-|---------------------------------------------|------------------------------------------------------------|--------------------------|
-| **Corporación Unificada Nacional CUN**      | Ingeniería de Sistemas                                     | 2022 – 2025              |
-| **SENA**                                   | Tecnólogo en Análisis y Desarrollo de Sistemas de Información | 2021 – 2024              |
-| **Generation Colombia**                     | Desarrollo Jr. Full-Stack/Java                             | 2025                      |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,vue,react,nodejs,express,css,html,python,azure,docker,git,github,linux,figma,postgres,mongodb,powerbi&perline=10" />
+</p>
 
 ---
 
-## 💼 Experiencia Profesional
+## 🏆 Proyectos Destacados
+
+### Vetlab Ecommerce
+
+<img src="https://github.com/tu-github/vetlab-ecommerce/raw/main/demo.gif" width="350" alt="Vetlab Demo"/>
+
+Solución e-commerce para salud y veterinaria.  
+**Stack:** Java, Spring Boot, React, Azure
+
+[![Ver Demo](https://img.shields.io/badge/Demo-25D366?style=for-the-badge&logo=vercel&logoColor=white)](https://vetlab-demo.vercel.app)
+[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-github/vetlab-ecommerce)
+
+---
+
+### Abecedario App
+
+<img src="https://github.com/tu-github/abecedario-app/raw/main/demo.gif" width="350" alt="Abecedario App"/>
+
+Juego interactivo educativo para niños.  
+**Stack:** Vue, JavaScript, CSS
+
+[![Ver Demo](https://img.shields.io/badge/Demo-25D366?style=for-the-badge&logo=vercel&logoColor=white)](https://abecedario-demo.vercel.app)
+[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-github/abecedario-app)
+
+---
+
+### My List To-Do
+
+<img src="https://github.com/tu-github/my-list-todo/raw/main/demo.gif" width="350" alt="My List To-Do"/>
+
+Gestor de tareas multiplataforma.  
+**Stack:** Node.js, React, MongoDB
+
+[![Ver Demo](https://img.shields.io/badge/Demo-25D366?style=for-the-badge&logo=vercel&logoColor=white)](https://mylist-demo.vercel.app)
+[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-github/my-list-todo)
+
+---
+
+## 🎓 Educación
+
+| 📖 Institución                              | 🎓 Programa                                         | 📅 Periodo                |
+|---------------------------------------------|-----------------------------------------------------|--------------------------|
+| **CUN**                                    | Ingeniería de Sistemas                              | 2022 – 2025              |
+| **SENA**                                   | Tec. Análisis y Desarrollo de Sistemas de Información| 2021 – 2024              |
+| **Generation Colombia**                     | Desarrollo Jr. Full-Stack/Java                      | 2025                      |
+
+---
+
+## 🏅 Certificaciones
+
+| Certificación | Institución | Badge |
+|---|---|---|
+| Scrum Foundation Professional Certification - SFPC™ | CertiProf | ![Scrum](https://img.shields.io/badge/Scrum-FFCA2B?style=flat-square&logo=scrumalliance&logoColor=white) |
+| IBM Data Science Professional Certificate | IBM | ![IBM](https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) |
+| Google Project Management Professional Certificate | Google | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) |
+| Google Data Analytics/Advanced Data Analytics | Google | ![Google](https://img.shields.io/badge/Google-34A853?style=flat-square&logo=google&logoColor=white) |
+| Microsoft Azure DP-900, AZ-900, AI-900, SC-900 | Microsoft | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) |
+| IELTS Academic Test (C1) | British Council | ![IELTS](https://img.shields.io/badge/IELTS-C1-blue?style=flat-square) |
+
+---
+
+## 💼 Experiencia
 
 <details open>
-  <summary><strong>🛒 Proyecto E-commerce - Vetlab <em>(Feb 2025 – Jun 2025)</em></strong></summary>
+  <summary><strong>🛒 Full Stack Developer - Vetlab (2025)</strong></summary>
 
-- 🎨 Diseño y desarrollo de interfaces de usuario intuitivas y responsivas (JavaScript, CSS).
-- 🗄️ Gestión de bases de datos para productos, usuarios y pedidos (SQL).
-- 🛒 Integración de módulos: contacto, sobre nosotros, carrito, tienda y autenticación.
-- 🚀 Despliegue, mantenimiento y optimización de la aplicación.
+- Lideré el desarrollo de un e-commerce con arquitectura escalable y CI/CD.
+- Implementé módulos de autenticación, carrito, gestión de productos y pagos online.
+- Mentoría a desarrolladores junior y colaboración con equipos multidisciplinarios.
 </details>
 
 <details>
-  <summary><strong>📊 Compliance Data Officer - TMF Group <em>(May 2023 – May 2024)</em></strong></summary>
+  <summary><strong>📊 Compliance Data Officer - TMF Group (2023-2024)</strong></summary>
 
-- 📥 Extracción de datos de múltiples fuentes (bases de datos, APIs, CRMs).
-- ⚡ Automatización de reportes mensuales, reduciendo tiempos en un 50%.
-- 🔍 Análisis de onboarding y estrategias para reducir falsos positivos en un 15%.
-- 📊 Dashboards interactivos en Power BI, mejorando la respuesta a requerimientos en un 25%.
+- Automatización de pipelines de datos y dashboards en Power BI, reduciendo tiempos de reporte en un 60%.
+- Análisis predictivo para onboarding y compliance, disminuyendo falsos positivos en un 20%.
+- Integración de fuentes multi-plataforma (SQL, APIs, CRMs).
 </details>
-
----
-
-## 🏅 Certificaciones & Habilidades
-
-| Certificación | Institución | Tecnologías/Áreas |
-|---|---|---|
-| ![Scrum](https://img.shields.io/badge/Scrum-FFCA2B?style=flat-square&logo=scrumalliance&logoColor=white) Foundation Professional Certification - SFPC™ | CertiProf | Scrum, Project Management |
-| ![IBM](https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) Data Science Professional Certificate | IBM | AI, Python, Scikit-Learn, Tensorflow |
-| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) Project Management Professional Certificate | Google | Agile, Scrum, Project Management |
-| ![Google](https://img.shields.io/badge/Google-34A853?style=flat-square&logo=google&logoColor=white) Data Analytics/Advanced Data Analytics | Google | BigQuery, Looker, GCP, Excel, Estadística |
-| ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) DP-900, AZ-900, AI-900, SC-900 | Microsoft | Azure, SQL, AI, Python, PowerBI |
-| ![IELTS](https://img.shields.io/badge/IELTS-C1-blue?style=flat-square) Academic Test | British Council | Inglés Avanzado |
-
----
-
-## 🚀 Tecnologías & Herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,vue,react,nodejs,css,html,sql,python,azure,powerbi,git,github,linux,figma&perline=10" />
-</p>
 
 ---
 
@@ -92,12 +131,12 @@ Me apasiona liderar proyectos desde la concepción hasta el despliegue, siempre 
 
 ---
 
-## 🤝 ¿Quieres contactarme?
+## 🤝 ¿Listo para trabajar juntos?
 
 <div align="center">
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573507554178)
-[![Correo](https://img.shields.io/badge/Email-0072c6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisco_rojasxxi@hotmail.es)
+[![Email](https://img.shields.io/badge/Email-0072c6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisco_rojasxxi@hotmail.es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-github)
 
@@ -107,7 +146,7 @@ Me apasiona liderar proyectos desde la concepción hasta el despliegue, siempre 
 
 <div align="center">
   
-> _"Siempre busco crear soluciones útiles, accesibles y que generen un impacto positivo en las personas."_
+> _"Construyo soluciones que conectan tecnología y personas. ¿Hablamos de tu próximo reto?"_
 
 </div>
 
@@ -116,4 +155,5 @@ Me apasiona liderar proyectos desde la concepción hasta el despliegue, siempre 
 <p align="right">
   <sub>Actualizado: 7 de mayo de 2025</sub>
 </p>
+
 
