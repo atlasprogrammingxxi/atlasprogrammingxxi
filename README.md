@@ -43,15 +43,15 @@ Me motiva crear productos digitales que generen impacto real y positivo.
 
 ## 🏆 Proyectos Destacados
 
-### Vetlab Ecommerce
+### Petlab Ecommerce
 
 <img src="https://github.com/tu-github/vetlab-ecommerce/raw/main/demo.gif" width="350" alt="Vetlab Demo"/>
 
 Solución e-commerce para salud y veterinaria.  
 **Stack:** Java, Spring Boot, React, Azure
 
-[![Ver Demo](https://img.shields.io/badge/Demo-25D366?style=for-the-badge&logo=vercel&logoColor=white)](https://vetlab-demo.vercel.app)
-[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-github/vetlab-ecommerce)
+[![Ver Demo](https://img.shields.io/badge/Demo-25D366?style=for-the-badge&logo=vercel&logoColor=white)]([https://vetlab-demo.vercel.app](https://main.d2e3h3wxomf5cy.amplifyapp.com/))
+[![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/tu-github/vetlab-ecommerce](https://github.com/KerlyVanesaSarrias/PetLab))
 
 ---
 
